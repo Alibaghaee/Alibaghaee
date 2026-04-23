@@ -7,7 +7,7 @@ I mainly work with **PHP (Laravel)** on the backend and **Vue.js / Angular** on 
 I enjoy working on real-world projects, writing clean and readable code, and collaborating with teams to deliver reliable software solutions.
 
 ## 🛠 Tech Stack
-- Backend: PHP, Laravel
+- Backend: PHP, Laravel, Go
 - Frontend: Vue.js, Angular
 - Database: MySQL, MongoDB
 - DevOps: Docker, Nginx, Linux
