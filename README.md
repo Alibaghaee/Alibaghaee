@@ -1,4 +1,4 @@
-# Hi, I'm Ali 👋
+# Hi, I'm Ali 
 
 I'm a Full-Stack Web Developer with over 6 years of experience in designing, developing, and maintaining web applications.
 
